@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3s9ln46lmnla8.css","style"]
+:HL["/_next/static/chunks/0iuq2pz_vifph.css","style"]
 :HL["/_next/static/chunks/3kjix-20r2wap.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
 :HL["/assets/img/logo.svg","image"]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"area","t":"d","k":"admissions","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"solutions","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(content)","h":131072,"c":"$Q2"}]]
-0:{"b":"Zi_PYBKfcKiX9o3wdFn1Q","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"c0jHdGjLeJZb8tXAizZQB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
