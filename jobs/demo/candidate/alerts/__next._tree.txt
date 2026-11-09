@@ -1,0 +1,7 @@
+:HL["/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","style"]
+:HL["/jobs/demo/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/jobs/demo/_next/static/media/97f4d920d86bfb73-s.p.33ixbg5j21l7r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"alerts","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"candidate","h":96,"c":"$Q2"}]]
+0:{"b":"eSJFaeu_bYvAYKcEix-C1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

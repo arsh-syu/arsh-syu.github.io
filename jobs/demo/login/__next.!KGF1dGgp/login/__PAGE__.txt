@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js"
+3:"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js"
+4:I[59646,["$2","$3"],"DemoBanner"]
+6:I[85387,["$2","$3"],"DemoProvider"]
+7:I[39756,["$2","$3"],"default"]
+8:"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js"
+9:I[19729,["$2","$3","$8"],"default"]
+a:I[37457,["$2","$3"],"default"]
+b:"/jobs/demo/_next/static/chunks/37m8-uif5g3s7.js"
+c:"/jobs/demo/_next/static/chunks/1p2kyh-umm0p6.js"
+d:"/jobs/demo/_next/static/chunks/2q9ugg70sj102.js"
+e:I[98591,["$2","$3","$b","$c","$d"],"NotFoundView"]
+12:I[98591,["$2","$3","$b","$c","$d"],"Link"]
+18:"$Sreact.suspense"
+19:I[98591,["$2","$3","$b","$c","$d"],"LoadingView"]
+1a:I[58334,["$2","$3","$b","$c","$d"],"LoginClient"]
+1b:I[97367,["$2","$3"],"OutletBoundary"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2","$3"],"$20"]
+22:I[27201,["$2","$3"],"IconMark"]
+:HL["/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","style"]
+:HL["/jobs/demo/brand/logos/logo.svg","image"]
+5:["$","p",null,{"className":"mx-auto my-6 max-w-[40rem] px-4 text-center text-body text-ink","children":"The demo runs in your browser and needs JavaScript. Please turn it on and reload the page."}]
+10:X
+16:X
+16:C
+17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$18",null,{"fallback":["$","$L19",null,{}],"children":["$","$L1a",null,{}]}],[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/1p2kyh-umm0p6.js","async":true}],["$","script","script-1",{"src":"/jobs/demo/_next/static/chunks/2q9ugg70sj102.js","async":true}]],["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":"$@1d","v":null,"s":"$10"}}]]
+14:[["children",{"s":"login","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@15","v":"$16","s":"$10"},"c":"$Q17"}]]
+11:[["children",{"s":"(auth)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/37m8-uif5g3s7.js","async":true}]],["$","div",null,{"className":"min-h-dvh bg-mist","children":[["$","header",null,{"className":"mx-auto flex h-[72px] max-w-[1240px] items-center px-5 md:px-10","children":["$","$L12",null,{"href":"/","aria-label":"Walnut Jobs home","children":["$","img",null,{"src":"/jobs/demo/brand/logos/logo.svg","alt":"Walnut DataTech","className":"w-auto h-9"}]}]}],["$","main",null,{"id":"main","className":"mx-auto max-w-[1100px] px-5 pb-16 pt-4 md:px-10","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Le",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]]}]}]]}]]}],"p":"$@13","v":null,"s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","precedence":"next"}],["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js","async":true}],["$","script","script-1",{"src":"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"_8Y_Bfa_variable _nlB3a_variable","children":["$","body",null,{"className":"min-h-dvh bg-paper text-ink","children":[["$","$L4",null,{}],["$","noscript",null,{"children":"$5"}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js","async":true}]],"template":["$","$La",null,{}],"notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Le",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]]}]}]]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sign in · Walnut Jobs demo"}],["$","meta","1",{"name":"description","content":"A demo of Walnut Jobs with sample data that stays in your browser. International jobs at leading companies, the skills each role needs, and the Walnut courses that close any gap."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/jobs/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$10"}},"a":"$@24","u":"$@25","b":"eSJFaeu_bYvAYKcEix-C1"}
+1c:null
+10:300
+25:true
+10:C
+24:0
+15:"$undefined"
+13:"$undefined"
+f:"$undefined"
+23:"$undefined"
+1d:"$undefined"

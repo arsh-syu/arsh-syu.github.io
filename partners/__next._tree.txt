@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3s9ln46lmnla8.css","style"]
+:HL["/_next/static/chunks/3kjix-20r2wap.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
+:HL["/assets/img/logo.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"partners","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(content)","c":"$Q2"}]]
+0:{"b":"Zi_PYBKfcKiX9o3wdFn1Q","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

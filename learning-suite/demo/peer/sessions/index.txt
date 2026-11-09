@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"[project]/packages/ui/src/shell.tsx [app-client] (ecmascript)"
+3:"/learning-suite/demo/_next/static/chunks/1smf48cp4-xnt.js"
+4:"/learning-suite/demo/_next/static/chunks/1zdg6sc39y06-.js"
+5:"/learning-suite/demo/_next/static/chunks/1ilrkm0ggikjx.js"
+6:I["$2",["$3","$4","$5"],"WalnutAppLayout"]
+7:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
+8:I["$7",["$3","$4","$5"],"default"]
+9:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"
+a:I["$9",["$3","$4","$5"],"default"]
+b:"[project]/packages/runtime/src/link.tsx [app-client] (ecmascript)"
+c:I["$b",["$3","$4","$5"],"default"]
+d:"[project]/packages/ui/src/support.tsx [app-client] (ecmascript)"
+e:I["$d",["$3","$4","$5"],"SupportLink"]
+13:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+14:I["$13",["$3","$4","$5"],"ClientPageRoot"]
+15:"[project]/apps/peer/app/peer/sessions/page.tsx [app-client] (ecmascript)"
+16:"/learning-suite/demo/_next/static/chunks/1m8uaxavg4ljt.js"
+17:I["$15",["$3","$4","$5","$16"],"default"]
+1a:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+1b:I["$1a",["$3","$4","$5"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I["$1a",["$3","$4","$5"],"$1e"]
+21:"MetadataBoundary"
+22:I["$1a",["$3","$4","$5"],"$21"]
+24:"[project]/node_modules/next/dist/client/components/builtin/global-error.js [app-client] (ecmascript)"
+25:I["$24",["$3","$4","$5"],"default",1]
+:HL["/learning-suite/demo/_next/static/chunks/1qxj-6j-epqmh.css","style"]
+10:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L14",null,{"Component":"$17","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@18","$@19"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/1m8uaxavg4ljt.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":"sessions","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q12"}]]
+f:[["children",{"s":"peer","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","peer","sessions",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/1qxj-6j-epqmh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/1smf48cp4-xnt.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/1zdg6sc39y06-.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/1ilrkm0ggikjx.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"appId":"peer","nav":[{"href":"/","label":"Dashboard","exact":true},{"href":"/groups/new","label":"Form groups","permission":"group.create"},{"href":"/groups","label":"Groups","anyPermission":["group.manage","session.join"]},{"href":"/sessions","label":"Sessions","anyPermission":["group.manage","session.join"]},{"href":"/my","label":"My peer learning","permission":"session.join"},{"href":"/impact","label":"Impact","permission":"analytics.view"}],"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center rounded-[22px] bg-mist px-6 py-14 text-center","children":["$undefined",["$","div",null,{"className":"font-display text-[1.125rem] font-medium tracking-[-0.02em] text-ink","children":"We couldn’t find that page"}],["$","p",null,{"className":"mt-1.5 max-w-md text-sm text-muted","children":"This group, session or task doesn’t exist, or isn’t part of your organisation."}],["$","div",null,{"className":"mt-5","children":["$","div",null,{"className":"flex flex-col items-center gap-4","children":[["$","$Lc",null,{"className":"inline-flex items-center justify-center gap-2 rounded-full border-[1.5px] font-semibold whitespace-nowrap transition-[background-color,color,border-color,box-shadow,transform] duration-200 ease-brand active:scale-[0.96] disabled:pointer-events-none disabled:opacity-55 border-transparent bg-ink text-white hover:bg-brand-600 hover:shadow-[var(--glow-accent)] h-10 px-5 text-[0.875rem]","href":"/","children":"Back to your dashboard"}],["$","$Le",null,{"type":"IS","department":"IT","subject":"Page not found in the learning suite demo","className":"text-sm font-semibold text-brand-700 hover:text-brand-600","children":"Report this issue"}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$25",[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/1qxj-6j-epqmh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mWty-841hyzd3qqYYtdVG"}
+10:C
+18:{}
+19:"$12:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+27:I["$26",["$3","$4","$5"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Peer Learning · Walnut"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L27","3",{}]]

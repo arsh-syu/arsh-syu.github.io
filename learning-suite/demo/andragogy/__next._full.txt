@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:"[project]/packages/ui/src/shell.tsx [app-client] (ecmascript)"
+3:"/learning-suite/demo/_next/static/chunks/44x4jlgowxdv3.js"
+4:"/learning-suite/demo/_next/static/chunks/03xsyydfr1fd4.js"
+5:"/learning-suite/demo/_next/static/chunks/069xlpazhsg__.js"
+6:I["$2",["$3","$4","$5"],"WalnutAppLayout"]
+7:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
+8:I["$7",["$3","$4","$5"],"default"]
+9:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"
+a:I["$9",["$3","$4","$5"],"default"]
+b:"[project]/packages/runtime/src/link.tsx [app-client] (ecmascript)"
+c:I["$b",["$3","$4","$5"],"default"]
+d:"[project]/packages/ui/src/support.tsx [app-client] (ecmascript)"
+e:I["$d",["$3","$4","$5"],"SupportLink"]
+f:"[project]/apps/andragogy/components/HashScroll.tsx [app-client] (ecmascript)"
+10:I["$f",["$3","$4","$5"],"HashScroll"]
+14:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+15:I["$14",["$3","$4","$5"],"ClientPageRoot"]
+16:"[project]/apps/andragogy/app/andragogy/page.tsx [app-client] (ecmascript)"
+17:"/learning-suite/demo/_next/static/chunks/2wtnnvq1wboq2.js"
+18:"/learning-suite/demo/_next/static/chunks/2t-ue_2zk4r91.js"
+19:"/learning-suite/demo/_next/static/chunks/1t0cfqfczywbd.js"
+1a:"/learning-suite/demo/_next/static/chunks/1ww8cvh6sd5uf.js"
+1b:I["$16",["$3","$4","$5","$17","$18","$19","$1a"],"default"]
+1e:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+1f:I["$1e",["$3","$4","$5"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:"ViewportBoundary"
+23:I["$1e",["$3","$4","$5"],"$22"]
+25:"MetadataBoundary"
+26:I["$1e",["$3","$4","$5"],"$25"]
+28:"[project]/node_modules/next/dist/client/components/builtin/global-error.js [app-client] (ecmascript)"
+29:I["$28",["$3","$4","$5"],"default",1]
+:HL["/learning-suite/demo/_next/static/chunks/2shjt18ji_6v1.css","style"]
+12:X
+13:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L15",null,{"Component":"$1b","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@1c","$@1d"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/2wtnnvq1wboq2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/2t-ue_2zk4r91.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/1t0cfqfczywbd.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/learning-suite/demo/_next/static/chunks/1ww8cvh6sd5uf.js","async":true,"nonce":"$undefined"}]],["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":"andragogy","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$12"},"c":"$Q13"}]]
+0:{"P":null,"c":["","andragogy",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/2shjt18ji_6v1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/44x4jlgowxdv3.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/03xsyydfr1fd4.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/069xlpazhsg__.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L6",null,{"appId":"andragogy","nav":[{"href":"/","label":"Dashboard","exact":true},{"href":"/courses","label":"Courses"},{"href":"/goals","label":"My goals and experience","permission":"goal.manage"},{"href":"/learners","label":"Learners and reflections","permission":"learner.progress.view"},{"href":"/analytics","label":"Analytics","permission":"analytics.view"}],"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center rounded-[22px] bg-mist px-6 py-14 text-center","children":["$undefined",["$","div",null,{"className":"font-display text-[1.125rem] font-medium tracking-[-0.02em] text-ink","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-1.5 max-w-md text-sm text-muted","children":"The course or module may have been removed, or it belongs to another organisation."}],["$","div",null,{"className":"mt-5","children":["$","div",null,{"className":"flex flex-col items-center gap-4","children":[["$","$Lc",null,{"className":"inline-flex items-center justify-center gap-2 rounded-full border-[1.5px] font-semibold whitespace-nowrap transition-[background-color,color,border-color,box-shadow,transform] duration-200 ease-brand active:scale-[0.96] disabled:pointer-events-none disabled:opacity-55 border-transparent bg-ink text-white hover:bg-brand-600 hover:shadow-[var(--glow-accent)] h-10 px-5 text-[0.875rem]","href":"/courses","children":"Back to courses"}],["$","$Le",null,{"type":"IS","department":"IT","subject":"Page not found in the learning suite demo","className":"text-sm font-semibold text-brand-700 hover:text-brand-600","children":"Report this issue"}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":"$L24"}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":"$L27"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$29",[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/2shjt18ji_6v1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"h41uCAkXNlAaySmMWnNlL"}
+12:C
+1c:{}
+1d:"$13:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+24:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2a:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+2b:I["$2a",["$3","$4","$5"],"IconMark"]
+21:null
+27:[["$","title","0",{"children":"Andragogy Engine · Walnut"}],["$","meta","1",{"name":"description","content":"Self-directed learning design for adult learners — college courses, faculty PD and individual professionals."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2b","4",{}]]

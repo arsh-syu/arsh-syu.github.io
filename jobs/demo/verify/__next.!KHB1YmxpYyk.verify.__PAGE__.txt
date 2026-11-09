@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js"
+3:"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js"
+4:I[59646,["$2","$3"],"DemoBanner"]
+6:I[85387,["$2","$3"],"DemoProvider"]
+7:I[39756,["$2","$3"],"default"]
+8:"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js"
+9:I[19729,["$2","$3","$8"],"default"]
+a:I[37457,["$2","$3"],"default"]
+b:"/jobs/demo/_next/static/chunks/3_kbmhqjzhf5f.js"
+c:"/jobs/demo/_next/static/chunks/3qyt8a8a1pq-f.js"
+d:I[98591,["$2","$3","$b","$c"],"NotFoundView"]
+11:I[23947,["$2","$3","$b"],"PublicHeader"]
+12:I[23947,["$2","$3","$b"],"PublicFooter"]
+18:"$Sreact.suspense"
+19:I[98591,["$2","$3","$b","$c"],"LoadingView"]
+1a:I[13334,["$2","$3","$b","$c"],"VerifyClient"]
+1b:I[97367,["$2","$3"],"OutletBoundary"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2","$3"],"$20"]
+22:I[27201,["$2","$3"],"IconMark"]
+:HL["/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","style"]
+5:["$","p",null,{"className":"mx-auto my-6 max-w-[40rem] px-4 text-center text-body text-ink","children":"The demo runs in your browser and needs JavaScript. Please turn it on and reload the page."}]
+f:X
+16:X
+16:C
+17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$18",null,{"fallback":["$","$L19",null,{}],"children":["$","$L1a",null,{}]}],[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/3qyt8a8a1pq-f.js","async":true}]],["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":"$@1d","v":null,"s":"$f"}}]]
+14:[["children",{"s":"verify","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@15","v":"$16","s":"$f"},"c":"$Q17"}]]
+10:[["children",{"s":"(public)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/3_kbmhqjzhf5f.js","async":true}]],["$","div",null,{"className":"flex min-h-dvh flex-col bg-paper","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-pill focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"Skip to content"}],["$","div",null,{"className":"contents print:hidden","children":["$","$L11",null,{}]}],["$","main",null,{"id":"main","className":"flex-1 overflow-x-clip","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Ld",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]]}]}],["$","div",null,{"className":"contents print:hidden","children":["$","$L12",null,{}]}]]}]]}],"p":"$@13","v":null,"s":"$f"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","precedence":"next"}],["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js","async":true}],["$","script","script-1",{"src":"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"_8Y_Bfa_variable _nlB3a_variable","children":["$","body",null,{"className":"min-h-dvh bg-paper text-ink","children":[["$","$L4",null,{}],["$","noscript",null,{"children":"$5"}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js","async":true}]],"template":["$","$La",null,{}],"notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Ld",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]]}]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Verify a certificate · Walnut Jobs demo"}],["$","meta","1",{"name":"description","content":"Check that a Walnut certificate is genuine by its serial number."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/jobs/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$f"}},"a":"$@24","u":"$@25","b":"eSJFaeu_bYvAYKcEix-C1"}
+1c:null
+f:300
+25:true
+f:C
+24:0
+15:"$undefined"
+13:"$undefined"
+e:"$undefined"
+23:"$undefined"
+1d:"$undefined"

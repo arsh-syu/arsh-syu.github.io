@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,96109,t=>{"use strict";var e=t.i(43476),r=t.i(18566);t.s(["NavCurrent",0,function({href:t,children:a}){let i=((0,r.usePathname)()||"/").startsWith(t);return(0,e.jsx)("a",{href:t,...i?{"aria-current":"page"}:{},children:a})}])}]);

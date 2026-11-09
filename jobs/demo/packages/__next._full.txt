@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js"
+3:"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js"
+4:I[59646,["$2","$3"],"DemoBanner"]
+6:I[85387,["$2","$3"],"DemoProvider"]
+7:I[39756,["$2","$3"],"default"]
+8:"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js"
+9:I[19729,["$2","$3","$8"],"default"]
+a:I[37457,["$2","$3"],"default"]
+b:"/jobs/demo/_next/static/chunks/3_kbmhqjzhf5f.js"
+c:"/jobs/demo/_next/static/chunks/2y_ul06mv80yf.js"
+d:I[98591,["$2","$3","$b","$c"],"NotFoundView"]
+f:I[23947,["$2","$3","$b"],"PublicHeader"]
+10:I[23947,["$2","$3","$b"],"PublicFooter"]
+14:"$Sreact.suspense"
+15:I[98591,["$2","$3","$b","$c"],"LoadingView"]
+16:I[80632,["$2","$3","$b","$c"],"PackagesClient"]
+17:I[97367,["$2","$3"],"OutletBoundary"]
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2","$3"],"$1c"]
+1f:I[68027,["$2","$3"],"default",1]
+:HL["/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","style"]
+:HL["/jobs/demo/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/jobs/demo/_next/static/media/97f4d920d86bfb73-s.p.33ixbg5j21l7r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:["$","p",null,{"className":"mx-auto my-6 max-w-[40rem] px-4 text-center text-body text-ink","children":"The demo runs in your browser and needs JavaScript. Please turn it on and reload the page."}]
+12:X
+13:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$14",null,{"fallback":["$","$L15",null,{}],"children":["$","$L16",null,{}]}],[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/2y_ul06mv80yf.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":"packages","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$12"},"c":"$Q13"}]]
+e:[["children",{"s":"(public)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/3_kbmhqjzhf5f.js","async":true,"nonce":"$undefined"}]],["$","div",null,{"className":"flex min-h-dvh flex-col bg-paper","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-pill focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"Skip to content"}],["$","div",null,{"className":"contents print:hidden","children":["$","$Lf",null,{}]}],["$","main",null,{"id":"main","className":"flex-1 overflow-x-clip","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Ld",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"contents print:hidden","children":["$","$L10",null,{}]}]]}]]}],"p":false,"v":null},"c":"$Q11"}]]
+0:{"P":null,"c":["","packages",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/0_oysd_pz7f12.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/jobs/demo/_next/static/chunks/1rt4nzaopak-7.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","className":"_8Y_Bfa_variable _nlB3a_variable","children":["$","body",null,{"className":"min-h-dvh bg-paper text-ink","children":[["$","$L4",null,{}],["$","noscript",null,{"children":"$5"}],["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/jobs/demo/_next/static/chunks/1ra4a4bala5z1.js","async":true,"nonce":"$undefined"}]],"template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"px-5","children":["$","$Ld",null,{"body":"There is no page at this address in the Walnut Jobs demo. It may have moved, or the link is out of date."}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/jobs/demo/_next/static/chunks/08ot4wx2ro3i3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"eSJFaeu_bYvAYKcEix-C1"}
+12:C
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]
+20:I[27201,["$2","$3"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"Packages · Walnut Jobs demo"}],["$","meta","1",{"name":"description","content":"Job-ready course bundles for candidates and hiring packages for employers. Free to activate during launch."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/jobs/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L20","4",{}]]

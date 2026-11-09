@@ -1,0 +1,8 @@
+:HL["/learning-suite/demo/_next/static/chunks/3f1p0yp88_dsc.css","style"]
+6:[["children",{"s":"__PAGE__","h":160}]]
+5:[["children",{"s":"new","h":96,"c":"$Q6"}]]
+4:[["children",{"s":"paper","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"view","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"exams","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"evaluation","h":96,"c":"$Q2"}]]
+0:{"b":"Vp8WshIjmWIPcLgYcnFKY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

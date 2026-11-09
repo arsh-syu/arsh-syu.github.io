@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"[project]/packages/ui/src/shell.tsx [app-client] (ecmascript)"
+3:"/learning-suite/demo/_next/static/chunks/1mt0o1hm72_14.js"
+4:"/learning-suite/demo/_next/static/chunks/1n6rnx232pmbb.js"
+5:I["$2",["$3","$4"],"WalnutAppLayout"]
+6:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
+7:I["$6",["$3","$4"],"default"]
+8:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"
+9:I["$8",["$3","$4"],"default"]
+e:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+f:I["$e",["$3","$4"],"ClientPageRoot"]
+10:"[project]/apps/evaluation/app/evaluation/exams/page.tsx [app-client] (ecmascript)"
+11:"/learning-suite/demo/_next/static/chunks/0vbvjf4n831_p.js"
+12:I["$10",["$3","$4","$11"],"default"]
+15:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+16:I["$15",["$3","$4"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I["$15",["$3","$4"],"$19"]
+1c:"MetadataBoundary"
+1d:I["$15",["$3","$4"],"$1c"]
+1f:"[project]/node_modules/next/dist/client/components/builtin/global-error.js [app-client] (ecmascript)"
+20:I["$1f",["$3","$4"],"default",1]
+:HL["/learning-suite/demo/_next/static/chunks/3f1p0yp88_dsc.css","style"]
+b:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"Component":"$12","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@13","$@14"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/0vbvjf4n831_p.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+c:[["children",{"s":"exams","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qd"}]]
+a:[["children",{"s":"evaluation","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","evaluation","exams",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/3f1p0yp88_dsc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/1mt0o1hm72_14.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/1n6rnx232pmbb.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L5",null,{"appId":"evaluation","nav":[{"href":"/","label":"Dashboard","exact":true},{"href":"/exams","label":"Exams","anyPermission":["exam.manage","evaluation.view-all"]},{"href":"/evaluate","label":"My evaluation queue","permission":"script.evaluate"},{"href":"/moderation","label":"Moderation","permission":"script.moderate","alsoActive":["/evaluate/view?from=moderation"]},{"href":"/reevaluations","label":"Re-evaluation requests","anyPermission":["script.moderate","result.publish"]},{"href":"/analytics","label":"Analytics","permission":"analytics.view"},{"href":"/my-results","label":"My results","permission":"result.view-own"}],"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/3f1p0yp88_dsc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Vp8WshIjmWIPcLgYcnFKY"}
+b:C
+13:{}
+14:"$d:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+22:I["$21",["$3","$4"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"On-screen evaluation · Walnut"}],["$","meta","1",{"name":"description","content":"Step-wise on-screen evaluation of scanned answer sheets with AI assist, moderation and outcome-wise results."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","4",{}]]

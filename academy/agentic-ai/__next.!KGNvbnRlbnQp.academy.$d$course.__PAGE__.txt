@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0up-_b-93p196.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/_next/static/chunks/0pqvdmkaw3sie.js"
+e:"/_next/static/chunks/3m3q23c7ogf3r.js"
+f:"/_next/static/chunks/0xxnx8ajfwfko.js"
+10:I[73449,["$4","$d","$e","$f"],"BodyClass"]
+11:I[44402,["$4","$d","$e","$f"],"Redirect"]
+12:I[97367,["$4"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$4"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$4"],"$18"]
+1a:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","$L10",null,{"className":"page-system"}],["$","$L11",null,{"to":"/academy/"}],["$","section",null,{"className":"page-hero notfound","children":["$","div",null,{"className":"wrap center","children":[["$","svg",null,{"className":"mark hero-mark","viewBox":"60 60 180 180","aria-hidden":"true","focusable":"false","children":[["$","path","r",{"className":"arm arm-r","d":"M180 119.962L239.912 109L239.912 125.918L192.335 133.168L192.511 130.406L240 141.973L240 158.027L192.511 169.68L192.335 166.832L239.912 174.082L239.912 191L180 180.038L180 160.531L227.048 148.187L227.048 151.899L180 139.469L180 119.962Z"}],["$","path","t",{"className":"arm arm-t","d":"M180.038 120L191 60.0881L174.082 60.0881L166.832 107.665L169.594 107.489L158.027 60L141.973 60L130.32 107.489L133.168 107.665L125.918 60.0881L109 60.0881L119.962 120L139.469 120L151.813 72.9515L148.101 72.9515L160.531 120L180.038 120Z"}],["$","path","b",{"className":"arm arm-b","d":"M180.038 180L191 239.912L174.082 239.912L166.832 192.335L169.594 192.511L158.027 240L141.973 240L130.32 192.511L133.168 192.335L125.918 239.912L109 239.912L119.962 180L139.469 180L151.813 227.048L148.101 227.048L160.531 180L180.038 180Z"}],["$","path","l",{"className":"arm arm-l","d":"M120 119.962L60.0881 109L60.0881 125.918L107.665 133.168L107.489 130.406L60 141.973L60 158.027L107.489 169.68L107.665 166.832L60.0881 174.082L60.0881 191L120 180.038L120 160.531L72.9515 148.187L72.9515 151.899L120 139.469L120 119.962Z"}]]}],["$","p",null,{"className":"eyebrow","children":"Agentic AI Short Course"}],["$","h1",null,{"className":"display display-md","children":"This course is no longer offered."}],["$","p",null,{"className":"lede","children":"Agentic AI Short Course is not available any more. Taking you to the courses we offer now…"}],["$","div",null,{"className":"actions center","children":["$","a",null,{"className":"btn btn-primary btn-lg","href":"/academy/","children":[[null,["$","span",null,{"children":"See all courses"}],["$","svg",null,{"className":"ico","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","focusable":"false","dangerouslySetInnerHTML":{"__html":"<path d=\"M5 12h14M13 6l6 6-6 6\"/>"}}]],null]}]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0xxnx8ajfwfko.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"course","t":"d","k":"agentic-ai","s":[]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"academy","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(content)","h":131072,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Agentic AI Short Course has moved — Walnut Data Tech"}],["$","meta","1",{"name":"description","content":"Agentic AI Short Course is no longer offered by Walnut Data Tech. See the courses available now on Walnut LMS."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"name":"theme-color","content":"#ffffff"}],["$","link","4",{"rel":"canonical","href":"https://walnutdatatech.com/academy/"}],["$","meta","5",{"name":"google-site-verification","content":"LFRdH1I3gLbTGJr5dzByLcjBDh7fSDsLjPrGIRBLH3U"}],["$","meta","6",{"property":"og:title","content":"Agentic AI Short Course has moved — Walnut Data Tech"}],["$","meta","7",{"property":"og:description","content":"Agentic AI Short Course is no longer offered by Walnut Data Tech. See the courses available now on Walnut LMS."}],["$","meta","8",{"property":"og:url","content":"https://walnutdatatech.com/academy/agentic-ai/"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Agentic AI Short Course has moved — Walnut Data Tech"}],["$","meta","11",{"name":"twitter:description","content":"Agentic AI Short Course is no longer offered by Walnut Data Tech. See the courses available now on Walnut LMS."}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.1zkfvb55tuo8m.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","13",{"rel":"icon","href":"/assets/img/favicon.svg","type":"image/svg+xml"}],["$","link","14",{"rel":"icon","href":"/assets/img/favicon.ico","sizes":"48x48"}],["$","link","15",{"rel":"apple-touch-icon","href":"/assets/img/apple-touch-icon.png"}],["$","$L1a","16",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"Zi_PYBKfcKiX9o3wdFn1Q"}
+14:null
+1d:true
+9:300
+9:C
+1c:0
+b:"$undefined"
+7:"$undefined"
+1b:"$undefined"
+15:"$undefined"

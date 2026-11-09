@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+5:"/learning-suite/demo/_next/static/chunks/1ws2a-x3b466b.js"
+6:"/learning-suite/demo/_next/static/chunks/1w-xf966_bt44.js"
+7:I["$4",["$5","$6"],"ClientPageRoot"]
+8:"[project]/apps/portal/app/(app)/page.tsx [app-client] (ecmascript)"
+9:"/learning-suite/demo/_next/static/chunks/1ftrz676r5n_9.js"
+a:"/learning-suite/demo/_next/static/chunks/3hpra4qcnwprv.js"
+b:"/learning-suite/demo/_next/static/chunks/0a-sdvtl6ryyg.js"
+c:"/learning-suite/demo/_next/static/chunks/0h_9kwxw_y4hb.js"
+d:I["$8",["$5","$6","$9","$a","$b","$c"],"default"]
+10:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+11:I["$10",["$5","$6"],"OutletBoundary"]
+12:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I["$10",["$5","$6"],"$16"]
+18:"MetadataBoundary"
+19:I["$10",["$5","$6"],"$18"]
+1a:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+1b:I["$1a",["$5","$6"],"IconMark"]
+15:X
+2:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$3","c",{"children":[["$","$L7",null,{"Component":"$d","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@e","$@f"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/0a-sdvtl6ryyg.js","async":true}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/0h_9kwxw_y4hb.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$15"}}]]
+1:[["children",{"s":"(app)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Walnut portal"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","3",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$15"}},"a":"$@1d","u":"$@1e","b":"_DNMke6wFMa3Q__O5YmLc"}
+e:{}
+f:"$2:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+13:null
+1e:true
+15:300
+15:C
+1d:0
+1c:"$undefined"
+14:"$undefined"

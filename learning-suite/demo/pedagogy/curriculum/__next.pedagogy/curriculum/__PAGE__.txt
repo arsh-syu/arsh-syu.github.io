@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"[project]/packages/ui/src/shell.tsx [app-client] (ecmascript)"
+3:"/learning-suite/demo/_next/static/chunks/126yfdhqbjmmm.js"
+4:"/learning-suite/demo/_next/static/chunks/3b521exxeq8ua.js"
+5:"/learning-suite/demo/_next/static/chunks/09t-_crhv4yav.js"
+6:I["$2",["$3","$4","$5"],"WalnutAppLayout"]
+7:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
+8:I["$7",["$3","$4","$5"],"default"]
+9:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"
+a:I["$9",["$3","$4","$5"],"default"]
+b:"[project]/packages/runtime/src/link.tsx [app-client] (ecmascript)"
+c:I["$b",["$3","$4","$5"],"default"]
+d:"[project]/packages/ui/src/support.tsx [app-client] (ecmascript)"
+e:I["$d",["$3","$4","$5"],"SupportLink"]
+17:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+18:I["$17",["$3","$4","$5"],"ClientPageRoot"]
+19:"[project]/apps/pedagogy/app/pedagogy/curriculum/page.tsx [app-client] (ecmascript)"
+1a:"/learning-suite/demo/_next/static/chunks/0p6ehjkuw3u_a.js"
+1b:"/learning-suite/demo/_next/static/chunks/3ja353uuk7ky-.js"
+1c:I["$19",["$3","$4","$5","$1a","$1b"],"default"]
+1f:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+20:I["$1f",["$3","$4","$5"],"OutletBoundary"]
+21:"$Sreact.suspense"
+24:"ViewportBoundary"
+25:I["$1f",["$3","$4","$5"],"$24"]
+26:"MetadataBoundary"
+27:I["$1f",["$3","$4","$5"],"$26"]
+28:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+29:I["$28",["$3","$4","$5"],"IconMark"]
+:HL["/learning-suite/demo/_next/static/chunks/0jwxge825swsk.css","style"]
+10:X
+13:X
+13:C
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L18",null,{"Component":"$1c","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@1d","$@1e"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/0p6ehjkuw3u_a.js","async":true}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/3ja353uuk7ky-.js","async":true}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}],"p":"$@23","v":null,"s":"$10"}}]]
+14:[["children",{"s":"curriculum","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@15","v":"$13","s":"$10"},"c":"$Q16"}]]
+11:[["children",{"s":"pedagogy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/0jwxge825swsk.css","precedence":"next"}],["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/126yfdhqbjmmm.js","async":true}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/3b521exxeq8ua.js","async":true}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/09t-_crhv4yav.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"appId":"pedagogy","nav":[{"href":"/","label":"Dashboard","exact":true},{"href":"/curriculum","label":"Curriculum map","anyPermission":["curriculum.manage","lesson.design","content.create"]},{"href":"/lessons","label":"Lessons","anyPermission":["lesson.design","content.approve"]},{"href":"/library","label":"Content library","anyPermission":["lesson.design","content.create","content.approve"]},{"href":"/classes","label":"Classes","anyPermission":["class.progress.view","analytics.view"]},{"href":"/learn","label":"My lessons","permission":"lesson.learn"},{"href":"/child","label":"My child","permission":"child.progress.view"}],"children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center rounded-[22px] bg-mist px-6 py-14 text-center","children":["$undefined",["$","div",null,{"className":"font-display text-[1.125rem] font-medium tracking-[-0.02em] text-ink","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-1.5 max-w-md text-sm text-muted","children":"It may have been removed, or it belongs to another class or school."}],["$","div",null,{"className":"mt-5","children":["$","div",null,{"className":"flex flex-col items-center gap-4","children":[["$","$Lc",null,{"className":"inline-flex items-center justify-center gap-2 rounded-full border-[1.5px] font-semibold whitespace-nowrap transition-[background-color,color,border-color,box-shadow,transform] duration-200 ease-brand active:scale-[0.96] disabled:pointer-events-none disabled:opacity-55 border-transparent bg-ink text-white hover:bg-brand-600 hover:shadow-[var(--glow-accent)] h-10 px-5 text-[0.875rem]","href":"/","children":"Back to dashboard"}],["$","$Le",null,{"type":"IS","department":"IT","subject":"Page not found in the learning suite demo","className":"text-sm font-semibold text-brand-700 hover:text-brand-600","children":"Report this issue"}]]}]}]]}],[]]}]}]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pedagogy Engine · Walnut"}],["$","meta","1",{"name":"description","content":"CBSE-aligned lesson design with 5E, Gradual Release and experiential models, an outcome-tagged content library and class progress tracking."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L29","4",{}]]}]}],null]}],null]}],"p":"$@2a","v":null,"s":"$10"}},"a":"$@2b","u":"$@2c","b":"lLTK5oO7bExxBnpvNhp_O"}
+1d:{}
+1e:"$16:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+22:null
+10:300
+2c:true
+10:C
+2b:0
+15:"$undefined"
+12:"$undefined"
+f:"$undefined"
+2a:"$undefined"
+23:"$undefined"

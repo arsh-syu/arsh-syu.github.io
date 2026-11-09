@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,98591,i=>{"use strict";i.i(92817),i.i(40959),i.S([29429,"Link,L,LoadingView,m,NotFoundView,o"])}]);

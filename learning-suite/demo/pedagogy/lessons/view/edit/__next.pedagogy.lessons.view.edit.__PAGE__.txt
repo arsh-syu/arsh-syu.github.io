@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:"[project]/packages/ui/src/shell.tsx [app-client] (ecmascript)"
+3:"/learning-suite/demo/_next/static/chunks/126yfdhqbjmmm.js"
+4:"/learning-suite/demo/_next/static/chunks/3b521exxeq8ua.js"
+5:"/learning-suite/demo/_next/static/chunks/09t-_crhv4yav.js"
+6:I["$2",["$3","$4","$5"],"WalnutAppLayout"]
+7:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
+8:I["$7",["$3","$4","$5"],"default"]
+9:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"
+a:I["$9",["$3","$4","$5"],"default"]
+b:"[project]/packages/runtime/src/link.tsx [app-client] (ecmascript)"
+c:I["$b",["$3","$4","$5"],"default"]
+d:"[project]/packages/ui/src/support.tsx [app-client] (ecmascript)"
+e:I["$d",["$3","$4","$5"],"SupportLink"]
+1b:"[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)"
+1c:I["$1b",["$3","$4","$5"],"ClientPageRoot"]
+1d:"[project]/apps/pedagogy/app/pedagogy/lessons/view/edit/page.tsx [app-client] (ecmascript)"
+1e:"/learning-suite/demo/_next/static/chunks/41usag8ok4oh1.js"
+1f:"/learning-suite/demo/_next/static/chunks/2dky-ici14zv0.js"
+20:"/learning-suite/demo/_next/static/chunks/3ja353uuk7ky-.js"
+21:"/learning-suite/demo/_next/static/chunks/0c924z8or3h5h.js"
+22:I["$1d",["$3","$4","$5","$1e","$1f","$20","$21"],"default"]
+25:"[project]/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)"
+26:I["$25",["$3","$4","$5"],"OutletBoundary"]
+27:"$Sreact.suspense"
+2a:"ViewportBoundary"
+2b:I["$25",["$3","$4","$5"],"$2a"]
+2c:"MetadataBoundary"
+2d:I["$25",["$3","$4","$5"],"$2c"]
+2e:"[project]/node_modules/next/dist/lib/metadata/generate/icon-mark.js [app-client] (ecmascript)"
+2f:I["$2e",["$3","$4","$5"],"IconMark"]
+:HL["/learning-suite/demo/_next/static/chunks/0jwxge825swsk.css","style"]
+10:X
+13:X
+13:C
+1a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1c",null,{"Component":"$22","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@23","$@24"]}}],[["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/41usag8ok4oh1.js","async":true}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/2dky-ici14zv0.js","async":true}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/3ja353uuk7ky-.js","async":true}],["$","script","script-3",{"src":"/learning-suite/demo/_next/static/chunks/0c924z8or3h5h.js","async":true}]],["$","$L26",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]]}],"p":"$@29","v":null,"s":"$10"}}]]
+18:[["children",{"s":"edit","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@19","v":"$13","s":"$10"},"c":"$Q1a"}]]
+16:[["children",{"s":"view","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@17","v":"$13","s":"$10"},"c":"$Q18"}]]
+14:[["children",{"s":"lessons","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@15","v":"$13","s":"$10"},"c":"$Q16"}]]
+11:[["children",{"s":"pedagogy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/learning-suite/demo/_next/static/chunks/0jwxge825swsk.css","precedence":"next"}],["$","script","script-0",{"src":"/learning-suite/demo/_next/static/chunks/126yfdhqbjmmm.js","async":true}],["$","script","script-1",{"src":"/learning-suite/demo/_next/static/chunks/3b521exxeq8ua.js","async":true}],["$","script","script-2",{"src":"/learning-suite/demo/_next/static/chunks/09t-_crhv4yav.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"appId":"pedagogy","nav":[{"href":"/","label":"Dashboard","exact":true},{"href":"/curriculum","label":"Curriculum map","anyPermission":["curriculum.manage","lesson.design","content.create"]},{"href":"/lessons","label":"Lessons","anyPermission":["lesson.design","content.approve"]},{"href":"/library","label":"Content library","anyPermission":["lesson.design","content.create","content.approve"]},{"href":"/classes","label":"Classes","anyPermission":["class.progress.view","analytics.view"]},{"href":"/learn","label":"My lessons","permission":"lesson.learn"},{"href":"/child","label":"My child","permission":"child.progress.view"}],"children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center rounded-[22px] bg-mist px-6 py-14 text-center","children":["$undefined",["$","div",null,{"className":"font-display text-[1.125rem] font-medium tracking-[-0.02em] text-ink","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-1.5 max-w-md text-sm text-muted","children":"It may have been removed, or it belongs to another class or school."}],["$","div",null,{"className":"mt-5","children":["$","div",null,{"className":"flex flex-col items-center gap-4","children":[["$","$Lc",null,{"className":"inline-flex items-center justify-center gap-2 rounded-full border-[1.5px] font-semibold whitespace-nowrap transition-[background-color,color,border-color,box-shadow,transform] duration-200 ease-brand active:scale-[0.96] disabled:pointer-events-none disabled:opacity-55 border-transparent bg-ink text-white hover:bg-brand-600 hover:shadow-[var(--glow-accent)] h-10 px-5 text-[0.875rem]","href":"/","children":"Back to dashboard"}],["$","$Le",null,{"type":"IS","department":"IT","subject":"Page not found in the learning suite demo","className":"text-sm font-semibold text-brand-700 hover:text-brand-600","children":"Report this issue"}]]}]}]]}],[]]}]}]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L2b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L2d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pedagogy Engine · Walnut"}],["$","meta","1",{"name":"description","content":"CBSE-aligned lesson design with 5E, Gradual Release and experiential models, an outcome-tagged content library and class progress tracking."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/learning-suite/demo/icon.svg?icon.20ui5l_0oeh-h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2f","4",{}]]}]}],null]}],null]}],"p":"$@30","v":null,"s":"$10"}},"a":"$@31","u":"$@32","b":"lLTK5oO7bExxBnpvNhp_O"}
+23:{}
+24:"$1a:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+28:null
+10:300
+32:true
+10:C
+31:0
+19:"$undefined"
+17:"$undefined"
+15:"$undefined"
+12:"$undefined"
+f:"$undefined"
+30:"$undefined"
+29:"$undefined"

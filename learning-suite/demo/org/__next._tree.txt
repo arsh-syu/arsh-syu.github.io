@@ -1,0 +1,6 @@
+:HL["/learning-suite/demo/_next/static/chunks/3ywltfsmmiuit.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"org","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(app)","c":"$Q2"}]]
+0:{"b":"_DNMke6wFMa3Q__O5YmLc","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
