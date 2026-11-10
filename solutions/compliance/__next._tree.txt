@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0zjzb5-dzcotk.css","style"]
+:HL["/_next/static/chunks/2vxluus0kx_j_.css","style"]
 :HL["/_next/static/chunks/3kjix-20r2wap.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
 :HL["/assets/img/logo.svg","image"]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"area","t":"d","k":"compliance","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"solutions","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(content)","h":131072,"c":"$Q2"}]]
-0:{"b":"CqG4muUfjGMvS7rE9p0Zy","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"p59H_eBxUhKAsYJKtT0sJ","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
