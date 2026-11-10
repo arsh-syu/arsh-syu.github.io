@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/1fv5n3_siijgs.css","style"]
-:HL["/_next/static/chunks/03bucm6co8mtt.css","style"]
+:HL["/_next/static/chunks/0l3obmewa7vyx.css","style"]
+:HL["/_next/static/chunks/1jb8npj7xx1ue.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
 :HL["/assets/img/logo.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"walnut-solutions","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(solutions)","c":"$Q2"}]]
-0:{"b":"vmQhu97P_BfFpZboEhUAn","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"CzEEcJH-XUoVoLkGVDyoW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
