@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/01a8i038xa-8z.css","style"]
+:HL["/_next/static/chunks/35k94ua4evvhr.css","style"]
 :HL["/_next/static/chunks/0gifei0um3-tp.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@500&display=swap","style"]
 :HL["/assets/img/logo.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"privacy","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(content)","c":"$Q2"}]]
-0:{"b":"t0gc6Oe6ruwRpmYsUPWuB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"61kdC5OxkgoNty7hrsBVP","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
