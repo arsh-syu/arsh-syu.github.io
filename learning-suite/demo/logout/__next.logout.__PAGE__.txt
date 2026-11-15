@@ -1,6 +1,6 @@
 2:"$Sreact.fragment"
 3:"[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)"
-4:"/learning-suite/demo/_next/static/chunks/1ws2a-x3b466b.js"
+4:"/learning-suite/demo/_next/static/chunks/1ws2a-x3b466b-av1.js"
 5:"/learning-suite/demo/_next/static/chunks/1w-xf966_bt44.js"
 6:I["$3",["$4","$5"],"default"]
 7:"[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)"

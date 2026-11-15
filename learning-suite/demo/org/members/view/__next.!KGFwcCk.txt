@@ -1,6 +1,6 @@
 2:"$Sreact.fragment"
 3:"[project]/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)"
-4:"/learning-suite/demo/_next/static/chunks/1ws2a-x3b466b.js"
+4:"/learning-suite/demo/_next/static/chunks/1ws2a-x3b466b-av1.js"
 5:"/learning-suite/demo/_next/static/chunks/1w-xf966_bt44.js"
 6:"ClientSegmentRoot"
 7:I["$3",["$4","$5"],"$6"]
